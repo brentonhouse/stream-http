@@ -44,6 +44,8 @@ http.request = function (uri, opts, cb) {
 
 	// Also valid opts.auth, opts.mode
 
+	console.debug(`opts: ${JSON.stringify(opts, null, 2)}`);
+
 	const req = new ClientRequest(opts);
 	if (cb) {
 		req.on('response', cb);
