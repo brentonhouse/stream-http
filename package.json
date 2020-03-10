@@ -1,6 +1,6 @@
 {
   "name": "@titanium/http",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Streaming http in the browser",
   "main": "index.js",
   "repository": {
