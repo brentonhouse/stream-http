@@ -1,6 +1,6 @@
 {
-  "name": "stream-http",
-  "version": "3.1.0",
+  "name": "@titanium/http",
+  "version": "0.0.2",
   "description": "Streaming http in the browser",
   "main": "index.js",
   "repository": {
@@ -28,7 +28,6 @@
   ],
   "dependencies": {
     "builtin-status-codes": "^3.0.0",
-    "inherits": "^2.0.1",
     "readable-stream": "^3.0.6",
     "xtend": "^4.0.0"
   },

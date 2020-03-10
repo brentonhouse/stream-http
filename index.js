@@ -1,3 +1,9 @@
+global.location = {};
+global.location.protocol = 'http';
+global.XMLHttpRequest = function(){
+	return Ti.Network.createHTTPClient();
+};
+
 var ClientRequest = require('./lib/request')
 var response = require('./lib/response')
 var extend = require('xtend')
