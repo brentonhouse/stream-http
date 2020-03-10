@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "builtin-status-codes": "^3.0.0",
-    "readable-stream": "^3.0.6",
+    "readable-stream": "^3.6.0",
     "xtend": "^4.0.0"
   },
   "devDependencies": {
