@@ -33,7 +33,7 @@
     "xtend": "^4.0.0"
   },
   "devDependencies": {
-    "@titanium/eslint-config": "0.0.11",
+    "@titanium/eslint-config": "0.0.17",
     "airtap": "^2.0.3",
     "basic-auth": "^2.0.1",
     "brfs": "^2.0.1",
