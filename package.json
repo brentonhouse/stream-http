@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@titanium/eslint-config": "0.0.11",
-    "airtap": "^2.0.3",
+    "airtap": "^4.0.3",
     "basic-auth": "^2.0.1",
     "brfs": "^2.0.1",
     "cookie-parser": "^1.4.3",
